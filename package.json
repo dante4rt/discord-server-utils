@@ -1,0 +1,29 @@
+{
+  "name": "discord-server-utils",
+  "version": "1.0.0",
+  "description": "Utility functions for Discord Server Management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dante4rt/discord-server-utils"
+  },
+  "keywords": [
+    "discord",
+    "server",
+    "utils"
+  ],
+  "author": "dante4rt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dante4rt/discord-server-utils/issues"
+  },
+  "homepage": "https://github.com/dante4rt/discord-server-utils#readme",
+  "dependencies": {
+    "discord-server-management": "^1.0.3",
+    "discord.js": "^14.14.1",
+    "node-schedule": "^2.1.1"
+  }
+}
